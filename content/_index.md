@@ -7,14 +7,19 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-        实验室
+      title:
+        zh: 信息安全实验室
+        en: CyberSecurity Lab
+      subtitle:
+        zh: 面向前沿 · 聚焦实战 · 开放共享
+        en: Cutting-edge · Offensive & Defensive · Open
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        信息安全实验室成立于 **2024 年**，专注MPC/FHE/ZK友好型对称密码的安全性分析与设计、面向抗量子计算的哈希算法的安全性分析等方向。  
+        团队现有副研究员 1 人，硕博研究生 3 人，承担研发项目、基金多少余项。
   
   - block: collection
     content:
