@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: 团队成员
+  - block: people
     content:
       title: 团队成员
       # Choose which groups/teams of users to display.
