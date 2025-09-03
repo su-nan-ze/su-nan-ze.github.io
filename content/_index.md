@@ -21,7 +21,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: 最新消息
       subtitle:
       text:
       count: 5
@@ -40,7 +40,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest Preprints
+      title: 近期成果
       text: ""
       count: 5
       filters:
