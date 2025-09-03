@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 欢迎来到实验室主页
-        content: 可以了解一下我们的研究方向
+      - title: 👋 欢迎参观实验室主页
+        content: 欢迎了解我们的研究方向
         align: center
         background:
           image:
