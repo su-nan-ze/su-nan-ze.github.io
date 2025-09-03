@@ -19,6 +19,7 @@ sections:
           - Alumni
           - 研究员
           - 访问学者
+          - 研究生
       sort_by: Params.last_name
       sort_ascending: true
     design:
