@@ -8,11 +8,8 @@ sections:
   - block: hero
     content:
       title:
-        zh: 信息安全实验室
-        en: CyberSecurity Lab
-      subtitle:
-        zh: 面向前沿 · 聚焦实战 · 开放共享
-        en: Cutting-edge · Offensive & Defensive · Open
+        信息安全实验室
+        
       image:
         filename: welcome.jpg
       text: |
