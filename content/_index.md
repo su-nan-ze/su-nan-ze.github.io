@@ -15,8 +15,9 @@ sections:
       text: |
         <br>
         
-        信息安全实验室成立于 **2024 年**，专注MPC/FHE/ZK友好型对称密码的安全性分析与设计、面向抗量子计算的哈希算法的安全性分析等方向。  
+        信息安全实验室成立于 2024 年,专注MPC/FHE/ZK友好型对称密码的安全性分析与设计、面向抗量子计算的哈希算法的安全性分析等方向。  
         团队现有副研究员 1 人，硕博研究生 3 人，承担研发项目、基金多少余项。
+        欢迎网络空间安全、信息安全、密码科学与技术、数学、计算机等相关专业的推免生、统考生加入我们。
   
   - block: collection
     content:
@@ -37,26 +38,6 @@ sections:
       view: card
       columns: '1'
   
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-
   - block: collection
     content:
       title: Latest Preprints
