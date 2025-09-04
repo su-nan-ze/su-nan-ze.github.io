@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: 学术成果
 
 # Listing view
 view: citation
