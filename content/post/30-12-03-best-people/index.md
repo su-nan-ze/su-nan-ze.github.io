@@ -1,8 +1,6 @@
 ---
 title:  XXX Win the Best People Award at XXX 2030
 date:  2020-12-02
-image:
-  focal_point: 'top'
 ---
 
 Congratulations to XXX for winning the Best Paper Award at the 2030 Conference on XXX.
