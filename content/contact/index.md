@@ -9,7 +9,7 @@ sections:
     content:
       title: 联系方式
       
-      email: test@example.orgtex
+      email: test@example.org
       phone: 888 888 88 88
       address:
         street: 450 Serra Mall
