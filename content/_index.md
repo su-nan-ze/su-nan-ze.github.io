@@ -37,17 +37,23 @@ sections:
       columns: '1'
   
   - block: collection
-    content:
-      title: publications
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article paper'
-    design:
-      view: citation
-      columns: '1'
+  content:
+    title: publications
+    count: 5
+    filters:
+      folders:
+        - publication
+      publication_type          # 注意去掉单引号
+        - article              # 期刊论文
+        - conference           # 会议论文
+        - preprint             # 预印本
+        - book                 # 专著
+        - paper
+    offset: 0
+    order: desc
+  design:
+    view: citation
+    columns: '1'
 
   - block: markdown
     content:
