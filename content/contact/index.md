@@ -7,8 +7,8 @@ type: landing
 sections:
   - block: contact
     content:
-      title: 联系方式
-      text: 如果你对我们的研究方向感兴趣和，欢迎联系我们。
+      title: contact
+      text: If you are interested in our research , please contact us.
       email: test@example.org
       phone: 888 888 88 88
       address:
