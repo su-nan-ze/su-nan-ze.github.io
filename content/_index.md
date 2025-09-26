@@ -51,7 +51,7 @@ sections:
         - paper
     offset: 0
     order: desc
-  design:
+    design:
     view: citation
     columns: '1'
 
