@@ -38,15 +38,15 @@ sections:
   
   - block: collection
     content:
-    title: publications
-    count: 5
-    filters:
-      folders:
+     title: publications
+     count: 5
+     filters:
+       folders:
         - publication
-      publication_type: 'article'
+       publication_type: 'article'
     design:
-    view: citation
-    columns: '1'
+     view: citation
+     columns: '1'
 
   - block: markdown
     content:
