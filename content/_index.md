@@ -37,7 +37,7 @@ sections:
       columns: '1'
   
   - block: collection
-  content:
+    content:
     title: publications
     count: 5
     filters:
