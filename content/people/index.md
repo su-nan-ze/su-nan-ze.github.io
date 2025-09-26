@@ -1,26 +1,14 @@
 ---
-title: 团队成员
+title: 团队成员          # 页面标题
 date: 2022-10-24
-type: landing
-
-sections:
-  - block: people
-    content:
-      title: 团队成员
-      user_groups:
-        - Principal Investigators
-        - Researchers
-        - Students
-        - Administration
-        - Visitors
-        - Alumni
-        - 研究员
-        - 访问学者
-        - 研究生
-      sort_by: Params.last_name
-      sort_ascending: true
-    design:
-      show_interests: false
-      show_role: true
-      show_social: true
+type: landing            # 保持 landing 类型即可
 ---
+
+<!-- 用 markdown 区块手写一张人员表格 -->
+{{< markdown >}}
+| 姓名 | 角色 | 邮箱 |
+|---|---|---|
+| 张三 | 研究员 | zhang@example.com |
+| 李四 | 研究生 | li@example.com |
+| 王五 | 访问学者 | wang@example.com |
+{{< /markdown >}}
