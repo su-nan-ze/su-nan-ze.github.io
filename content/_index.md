@@ -19,7 +19,7 @@ sections:
   
   - block: collection
     content:
-      title: 最新消息
+      title: News
       subtitle:
       text:
       count: 5
@@ -38,7 +38,7 @@ sections:
   
   - block: collection
     content:
-      title: 近期成果
+      title: publications
       text: ""
       count: 5
       filters:
