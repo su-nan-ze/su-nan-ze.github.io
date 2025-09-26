@@ -24,17 +24,26 @@ sections:
       show_role: true
       show_social: true
 
-    - block: markdown
+      - block: markdown
     content:
       title: 团队统计
       text: |
-        {{% table %}}
-        | 成员类型 | 人数 | 备注         |
-        |----------|------|--------------|
-        | 研究员   | 5    | 含 PI        |
-        | 访问学者 | 2    | 本年度       |
-        | 研究生   | 8    | 博士+硕士    |
-        {{% /table %}}
+        <div class="table-responsive">
+          <table class="table table-striped">
+            <thead>
+              <tr>
+                <th>成员类型</th>
+                <th>人数</th>
+                <th>备注</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr><td>研究员</td><td>5</td><td>含 PI</td></tr>
+              <tr><td>访问学者</td><td>2</td><td>本年度</td></tr>
+              <tr><td>研究生</td><td>8</td><td>博士+硕士</td></tr>
+            </tbody>
+          </table>
+        </div>
     design:
       columns: '1'
 ---
