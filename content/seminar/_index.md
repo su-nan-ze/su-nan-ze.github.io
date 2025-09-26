@@ -1,5 +1,5 @@
 ---
-title: 近期通告
+title: seminar
 
 # Listing view
 view: compact
