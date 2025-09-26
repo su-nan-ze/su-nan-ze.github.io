@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: people
     content:
-      title: peoplepeople
+      title: people
       user_groups:
         - Principal Investigators
         - Researchers
