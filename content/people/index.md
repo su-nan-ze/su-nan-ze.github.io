@@ -1,5 +1,5 @@
 ---
-title: 团队成员
+title: People
 date: 2022-10-24
 
 type: landing
@@ -26,4 +26,20 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+
+      - block: markdown
+    content:
+      title: 团队统计表
+      text: |
+        {{< table >}}
+        | 成员类型       | 人数 | 备注           |
+        |----------------|------|----------------|
+        | 研究员         | 5    | 包括PI和研究员 |
+        | 访问学者       | 2    | 本年度访问     |
+        | 研究生         | 8    | 博士+硕士      |
+        | 行政人员       | 1    | 实验室管理员   |
+        {{< /table >}}
+    design:
+      columns: '1'
+---
 ---
