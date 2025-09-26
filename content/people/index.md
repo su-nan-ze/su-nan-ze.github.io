@@ -1,12 +1,12 @@
 ---
-title: 团队成员
+title: people
 date: 2022-10-24
 type: landing
 
 sections:
   - block: people
     content:
-      title: 团队成员
+      title: peoplepeople
       user_groups:
         - Principal Investigators
         - Researchers
