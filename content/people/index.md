@@ -29,7 +29,7 @@ sections:
 
       - block: markdown
     content:
-      title: 团队统计表
+      title: people
       text: |
         {{< table >}}
         | 成员类型       | 人数 | 备注           |
